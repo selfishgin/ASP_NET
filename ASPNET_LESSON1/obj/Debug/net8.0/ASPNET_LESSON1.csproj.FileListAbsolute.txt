@@ -1,0 +1,14 @@
+C:\Users\Husey_ij91\source\repos\ASPNET_LESSON1\ASPNET_LESSON1\bin\Debug\net8.0\ASPNET_LESSON1.exe
+C:\Users\Husey_ij91\source\repos\ASPNET_LESSON1\ASPNET_LESSON1\bin\Debug\net8.0\ASPNET_LESSON1.deps.json
+C:\Users\Husey_ij91\source\repos\ASPNET_LESSON1\ASPNET_LESSON1\bin\Debug\net8.0\ASPNET_LESSON1.runtimeconfig.json
+C:\Users\Husey_ij91\source\repos\ASPNET_LESSON1\ASPNET_LESSON1\bin\Debug\net8.0\ASPNET_LESSON1.dll
+C:\Users\Husey_ij91\source\repos\ASPNET_LESSON1\ASPNET_LESSON1\bin\Debug\net8.0\ASPNET_LESSON1.pdb
+C:\Users\Husey_ij91\source\repos\ASPNET_LESSON1\ASPNET_LESSON1\obj\Debug\net8.0\ASPNET_LESSON1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Husey_ij91\source\repos\ASPNET_LESSON1\ASPNET_LESSON1\obj\Debug\net8.0\ASPNET_LESSON1.AssemblyInfoInputs.cache
+C:\Users\Husey_ij91\source\repos\ASPNET_LESSON1\ASPNET_LESSON1\obj\Debug\net8.0\ASPNET_LESSON1.AssemblyInfo.cs
+C:\Users\Husey_ij91\source\repos\ASPNET_LESSON1\ASPNET_LESSON1\obj\Debug\net8.0\ASPNET_LESSON1.csproj.CoreCompileInputs.cache
+C:\Users\Husey_ij91\source\repos\ASPNET_LESSON1\ASPNET_LESSON1\obj\Debug\net8.0\ASPNET_LESSON1.dll
+C:\Users\Husey_ij91\source\repos\ASPNET_LESSON1\ASPNET_LESSON1\obj\Debug\net8.0\refint\ASPNET_LESSON1.dll
+C:\Users\Husey_ij91\source\repos\ASPNET_LESSON1\ASPNET_LESSON1\obj\Debug\net8.0\ASPNET_LESSON1.pdb
+C:\Users\Husey_ij91\source\repos\ASPNET_LESSON1\ASPNET_LESSON1\obj\Debug\net8.0\ASPNET_LESSON1.genruntimeconfig.cache
+C:\Users\Husey_ij91\source\repos\ASPNET_LESSON1\ASPNET_LESSON1\obj\Debug\net8.0\ref\ASPNET_LESSON1.dll
