@@ -12,15 +12,8 @@ namespace AspNetCore
     using global::Microsoft.AspNetCore.Mvc;
     using global::Microsoft.AspNetCore.Mvc.Rendering;
     using global::Microsoft.AspNetCore.Mvc.ViewFeatures;
-#nullable restore
-#line 1 "C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\Views\_ViewImports.cshtml"
-using MVCPracticeLesson1;
-
-#line default
-#line hidden
-#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"1eeec6ab59893e7d28c04a32dad970261a826e7ff1eac9b191b2009f4c2ec81d", @"/Views/Home/Employee1.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"efce117f79411e6843142e01672661766392c0bc3ad961df7bc9e86befc22835", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"cc9598af62009b702a29583a45a0ab01d52fdc3ba6aeda3af789b8e0930f1deb", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Home_Employee1 : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IEnumerable<MVCPracticeLesson1.Entities.Employee>>
     #nullable disable
@@ -62,7 +55,7 @@ using MVCPracticeLesson1;
 #line hidden
 #nullable disable
             WriteLiteral("\r\n<!DOCTYPE html>\r\n\r\n<html>\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1eeec6ab59893e7d28c04a32dad970261a826e7ff1eac9b191b2009f4c2ec81d4009", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1eeec6ab59893e7d28c04a32dad970261a826e7ff1eac9b191b2009f4c2ec81d3805", async() => {
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>Employee1</title>\r\n");
             }
             );
@@ -76,9 +69,9 @@ using MVCPracticeLesson1;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1eeec6ab59893e7d28c04a32dad970261a826e7ff1eac9b191b2009f4c2ec81d5096", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1eeec6ab59893e7d28c04a32dad970261a826e7ff1eac9b191b2009f4c2ec81d4892", async() => {
                 WriteLiteral("\r\n<p>\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1eeec6ab59893e7d28c04a32dad970261a826e7ff1eac9b191b2009f4c2ec81d5389", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1eeec6ab59893e7d28c04a32dad970261a826e7ff1eac9b191b2009f4c2ec81d5185", async() => {
                     WriteLiteral("Create New");
                 }
                 );

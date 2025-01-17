@@ -18,7 +18,6 @@ C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\obj\Debug
 C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\obj\Debug\net5.0\MVCPracticeLesson1.TagHelpers.input.cache
 C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\obj\Debug\net5.0\MVCPracticeLesson1.TagHelpers.output.cache
 C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\obj\Debug\net5.0\MVCPracticeLesson1.RazorCoreGenerate.cache
-C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\obj\Debug\net5.0\MVCPracticeLesson1.RazorTargetAssemblyInfo.cache
 C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\obj\Debug\net5.0\MVCPracticeLesson1.RazorTargetAssemblyInfo.cs
 C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\obj\Debug\net5.0\MVCPracticeLesson1.Views.pdb
@@ -116,3 +115,5 @@ C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\obj\Debug
 C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\obj\Debug\net5.0\Razor\Views\Home\Employee1.cshtml.g.cs
 C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\obj\Debug\net5.0\Razor\Views\Home\Employee2.cshtml.g.cs
+C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\obj\Debug\net5.0\Razor\Views\Employee\Add.cshtml.g.cs
+C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs

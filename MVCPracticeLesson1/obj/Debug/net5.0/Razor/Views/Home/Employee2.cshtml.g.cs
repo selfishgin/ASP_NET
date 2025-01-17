@@ -12,15 +12,8 @@ namespace AspNetCore
     using global::Microsoft.AspNetCore.Mvc;
     using global::Microsoft.AspNetCore.Mvc.Rendering;
     using global::Microsoft.AspNetCore.Mvc.ViewFeatures;
-#nullable restore
-#line 1 "C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\Views\_ViewImports.cshtml"
-using MVCPracticeLesson1;
-
-#line default
-#line hidden
-#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"f88d04d74b76028f46027f321001b7821ec748107de0d6051ca881b6893e541b", @"/Views/Home/Employee2.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"efce117f79411e6843142e01672661766392c0bc3ad961df7bc9e86befc22835", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"cc9598af62009b702a29583a45a0ab01d52fdc3ba6aeda3af789b8e0930f1deb", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Home_Employee2 : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<MVCPracticeLesson1.Models.EmployeeViewModel>
     #nullable disable
@@ -52,7 +45,7 @@ using MVCPracticeLesson1;
         {
             WriteLiteral("\r\n");
             WriteLiteral("\r\n<!DOCTYPE html>\r\n<html>\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f88d04d74b76028f46027f321001b7821ec748107de0d6051ca881b6893e541b3363", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f88d04d74b76028f46027f321001b7821ec748107de0d6051ca881b6893e541b3159", async() => {
                 WriteLiteral("\r\n");
             }
             );
@@ -66,7 +59,7 @@ using MVCPracticeLesson1;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f88d04d74b76028f46027f321001b7821ec748107de0d6051ca881b6893e541b4353", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f88d04d74b76028f46027f321001b7821ec748107de0d6051ca881b6893e541b4149", async() => {
                 WriteLiteral("\r\n");
 #nullable restore
 #line 27 "C:\Users\Husey_ij91\source\repos\MVCPracticeLesson1\MVCPracticeLesson1\Views\Home\Employee2.cshtml"

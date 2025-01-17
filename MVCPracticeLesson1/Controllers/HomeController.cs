@@ -230,7 +230,7 @@ namespace MVCPracticeLesson1.Controllers
 
         }
 
-        //Query param
+        //Query param   
         public JsonResult Index12(string key, int id = -1)
         {
             List<Employee> employees = new()
